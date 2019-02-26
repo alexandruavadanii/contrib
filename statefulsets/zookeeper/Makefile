@@ -1,6 +1,6 @@
 VERSION=v3
-PROJECT_ID=google_samples
-PROJECT=gcr.io/${PROJECT_ID}
+PROJECT_ID=akrainoenea
+PROJECT=docker.io/${PROJECT_ID}
 
 all: build
 
